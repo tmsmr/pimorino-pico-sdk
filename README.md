@@ -1,1 +1,1 @@
-# pimorino-pico-sdk
+# pimoroni-pico-sdk
